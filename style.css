@@ -49,6 +49,11 @@
     margin: 10px;
     text-align: center;
   }
+  
+  .custom-card{
+    padding: 10px;
+    width: 25rem;
+  }
 
   .bg-tr{
     background: rgba(0, 0, 0, 0.1);
@@ -96,6 +101,7 @@
     text-transform: uppercase;
     font-family: 'Saira Extra Condensed', sans-serif;
     font-size: 2rem;
+    padding-bottom: 4px;
   }
 
   .dev-icons {
